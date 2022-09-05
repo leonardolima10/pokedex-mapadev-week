@@ -11,6 +11,7 @@ main{
     background-size: 280vh;
     background-repeat: no-repeat;
     background-position: center;
+    width:100%
 }
 .pokedex{
     display: flex;
